@@ -7,7 +7,7 @@ homepage: https://github.com/hemanthrajv/flutter_3d_obj
 flutter:
 
 environment:
-   sdk: ">=1.8.0 <2.0.0"
+   sdk: ">=1.8.0 <2.5.0"
 
 
 dependencies:
